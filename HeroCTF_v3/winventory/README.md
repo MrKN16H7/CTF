@@ -23,7 +23,7 @@ Here the functionality is we can add books to houses and we can access our own b
 
 So lets quickly add our books into houses and try to access them.
 
-![Create house](assets\Create_house.png)
+![Create house](assets/Create_house.png)
 
 
 
@@ -82,7 +82,7 @@ After checking the hash length it just shows 31 length. we can try Bruteforcing 
 
 After decrypting the md5 hash, we  got the following password  ```urfaceismassive```
 
-![hash decrypt](assets\hash_decrypt.png)
+![hash decrypt](assets/hash_decrypt.png)
 
 Using the above password we can login to Admin account and there is an image upload feature.
 
